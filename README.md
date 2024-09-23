@@ -5,8 +5,8 @@ This software recognizes human faces and their corresponding emotions from a vid
 
 Clone the repository:
 ```
-git clone https://github.com/petercunha/Emotion.git
-cd Emotion/
+git clone https://github.com/shruti-tiwarii/Emotion_Detection.git
+cd Emotion_Detection/
 ```
 
 Install these dependencies with `pip3 install <module name>`
