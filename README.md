@@ -1,9 +1,6 @@
 # Emotion
 This software recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
 
-![Demo](https://github.com/petercunha/Emotion/blob/master/demo/demo.gif?raw=true)
-
-
 ## Installation
 
 Clone the repository:
